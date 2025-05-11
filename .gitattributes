@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 C:\Users\user\Documents\GitHub\kakudou_file\ARBata.apk filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
